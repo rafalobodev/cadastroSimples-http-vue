@@ -1,0 +1,32 @@
++++++++++++++++terminal++++++++++++++++++++++++++++++++
+* npm i --save axios   : para instalar o axios dependencia para pegar dados do backend, --save: deixar no package.json a versão correta
+
+
+
+*npm run serve   : rodar o projeto em vue
+
+++++++++++++++post put get delete+++++++++++++++++++++++++++++
+*post: Em computação, POST é um dos muitos métodos de requisição suportados pelo protocolo HTTP usado na World Wide Web.
+ O método de requisição POST foi projetado para solicitar que o servidor web aceite os dados anexados
+  no corpo da mensagem de requisição para armazenamento. ou algo salvo para backend com metodo post
+
+*get: para mostrar os dados que foram criados com o metodo post na tela
+
+*patch: é o metodo de alterar um dado ou editar um dado q ja foi salvo com metodo post
+
+*delete: deletar algo dos dados backend q aparece no front
+
+
+
+
+<!---->
+/**/
+
+
+
+
+
+
+
+
+
